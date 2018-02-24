@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lfx:war">
+    <output-path>$PROJECT_DIR$/lfx/target</output-path>
+    <root id="archive" name="lfx.war">
+      <element id="artifact" artifact-name="lfx:war exploded" />
+    </root>
+  </artifact>
+</component>
